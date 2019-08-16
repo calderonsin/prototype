@@ -1,1 +1,1 @@
-# prototype
+# Prototype Design Pattern
